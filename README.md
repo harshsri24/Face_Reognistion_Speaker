@@ -24,6 +24,9 @@ This project involves creating an advanced face recognition and greeting system,
 
 - **Frontend Tools :-** Employed HTML, CSS, Bootstrap, and JavaScript to build an interactive frontend that shows real-time face detection results.
 
+![Screenshot from 2024-07-04 16-58-45](https://github.com/user-attachments/assets/390e117d-4c35-452c-ac49-bb6736e861c8)
+
+
 ## Advanced Model and Hardware Integration
 
 - **Advanced Model Integration :-** Integrated DeepFace into the model, achieving approximately 88% accuracy with a larger database.
@@ -41,9 +44,13 @@ This project involves creating an advanced face recognition and greeting system,
 - **final_model_rf.py:** Contains the ML model for real-time face detection.
 - **face_extractor.ipynb:** Includes code for the DeepFace model.
 
+![image](https://github.com/user-attachments/assets/4c454a3a-696c-4274-bdb2-ab32c1237248)
+
+
 ## Running the Server
 
 To upload a picture and run the server, navigate to the directory containing app.py and execute the following command in the terminal:
+
 python3 app.py
 
 ## Project Overview
