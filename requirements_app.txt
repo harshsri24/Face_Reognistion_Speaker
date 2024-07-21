@@ -1,0 +1,8 @@
+flask
+opencv-python
+pillow
+numpy
+Werkzeug
+datetime
+uuid
+os

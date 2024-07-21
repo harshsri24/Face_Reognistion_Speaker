@@ -1,0 +1,10 @@
+os
+cv2
+numpy
+threading
+scikit-learn
+picamera2
+imutils
+matplotlib
+subprocess
+time
