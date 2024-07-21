@@ -46,12 +46,25 @@ This project involves creating an advanced face recognition and greeting system,
 
 ![image](https://github.com/user-attachments/assets/4c454a3a-696c-4274-bdb2-ab32c1237248)
 
+## Installing the requirements
+
+- **for app.py:-**
+
+   `pip3 install -r requirements_app.txt`
+
+- **for final_model_rf.py**
+
+  `pip3 install -r requirements_rpi4.txt`
+
+- **for face_extractor.ipynb**
+
+  `pip3 install -r requirements_deepface.txt`
 
 ## Running the Server
 
 To upload a picture and run the server, navigate to the directory containing app.py and execute the following command in the terminal:
 
-python3 app.py
+  `python3 app.py`
 
 ## Project Overview
 This project presents an advanced face recognition and greeting system using OpenCV, DeepFace, and TensorFlow, integrated with the Raspberry Pi. It is designed to accurately identify individuals from a database in real-time and greet them by name. The system is well-suited for deployment in offices, hospitals, and public spaces, offering applications in personalized interactions, security, and attendance tracking.
