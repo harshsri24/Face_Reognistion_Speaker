@@ -8,7 +8,7 @@ This project involves creating an advanced face recognition and greeting system,
 
 - **Live Footage Visualization :-** Used Matplotlib to display live footage.
 
-- **Model Training :-** Applied K-Nearest Neighbors (KNN) and Convolutional Neural Network (CNN) algorithms for real-time face recognition.
+- **Model Training :-** Applied K-Nearest Neighbors (KNN) algorithm for real-time face recognition.
 
 - **Hardware Setup :-** Set up a Raspberry Pi module to handle processing, training, and model deployment. Supported by the Pi Camera Module 2 for image capture.
 
